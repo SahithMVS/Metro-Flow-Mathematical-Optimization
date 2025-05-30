@@ -26,5 +26,4 @@ Maximize daily profit by optimizing train car allocation and trip frequency acro
 ## 📂 Files Included
 - `MetroFlow_Model.xlsx` → Excel implementation using Solver
 - `MetroFlow_Python.ipynb` → Python optimization using PuLP
-- `SummaryPoster.png` → 1-page summary visual (optional)
-- `FinalSlides.pdf` → 2-slide project summary
+- `FinalSlides.pdf` → powerpoint slides of the project 
