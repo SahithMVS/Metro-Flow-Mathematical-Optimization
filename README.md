@@ -11,6 +11,28 @@ Balancing cost efficiency with service quality is critical for sustainable opera
 
 "Given a limited fleet of trains and cars, how can we schedule daily operations to maximize profit, meet at least 85% of passenger demand, and stay within resource limits like energy and maintenance budgets?"
 
+#Why This Problem Matters
+Urban transport systems are capital-intensive and rely heavily on effective planning. Poor resource allocation can lead to:
+
+Overcrowded trains 🚉
+Underutilized capacity during off-peak hours 🕒
+High energy and maintenance costs 💸
+Public dissatisfaction and revenue loss 👥
+
+On the other hand, optimized scheduling leads to:
+
+💰 Increased profitability
+😊 Better passenger service
+⚙️ Efficient use of energy and rolling stock
+🌍 Lower environmental impact
+
+📊 How Our Model Fits the Business Domain
+Our model takes real-world constraints into account:
+
+The number of train cars and trips must be feasible and within availability
+Costs per trip (energy, maintenance, replacement) are modeled explicitly
+Demand is segmented by route and time (rush vs. non-rush)
+This results in a schedule that dynamically balances demand and cost to maximize profit, just like transit authorities do when making data-informed operational decisions.
 
 A real-world transportation optimization model built using Excel Solver and Python (PuLP).  
 Project done as part of SCM518 Final at W. P. Carey School of Business.
